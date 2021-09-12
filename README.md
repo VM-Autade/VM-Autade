@@ -1,4 +1,4 @@
-### Hi there, I'm Vrushali 👋
+﻿### Hi there, I'm Vrushali 👋
 
 ## I'm a student, enthusiastic programmer. !!
 
@@ -18,7 +18,6 @@
 ## Languages and Tools:
 
 [<img align="left" alt="Java" width="26px" src="https://github.com/VM-Autade/VM-Autade/blob/main/java-43-569305.webp" title="Java" />][java]
-[<img align="left" alt=".NET" width="26px" src="https://github.com/VM-Autade/VM-Autade/blob/main/microsoft-dot-net-1-1175179.webp" title=".NET" />][dotnet]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="Visual Studio Code" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML5" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS3" />][webdevplaylist]
